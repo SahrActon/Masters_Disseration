@@ -63,8 +63,24 @@ was one of the main factors that contributed towards the high accuracy for the b
 9.	Model output SoftMax
 
 ## Explainable AI using Grad-CAM Class Activation
-<img src="https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png" alt="COVID-19 Chest X-ray Image" width="500" height="700" style=""/>
+<img src="https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png" alt="COVID-19 Chest X-ray Image" width="350" height="600" style=""/>
 
-<div style="width: 800px;height: 700px;background-color: rebeccapurple"></div>
+
+COVID-Detect was purposely built to classify Chest X-ray images with a key focus 
+on aiding radiologist and clinicians to understand how the AI system made its decision 
+using Explainable AI(XAI) techniques. Once our models were trained using Chest X-ray 
+medical images (e.g., Binary COVID-19 Vs Normal), we were able to produce a heatmap 
+using Grad-CAM. Our Grad-CAM was produced using the last layer of our network(s), 
+and then examining the gradient data travelling into that layer. The three arrows on 
+figure 4 show areas with a lot of inflammation and looking at figure 3 we can see that 
+our Grad-CAM has correctly highlighted the area with the colour red, as well as accurately 
+classifying the image as COVID-19. Using a Grad-CAM is also a great way of examining if our 
+CNN models are “seeing” the most important pixels to detect COVID-19, as well as aiding 
+radiologist to better trust the clinical findings made by COVID-Detect.
+
+## Results
+
+
+
 
 
