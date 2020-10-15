@@ -63,7 +63,7 @@ was one of the main factors that contributed towards the high accuracy for the b
 9.	Model output SoftMax
 
 ## Explainable AI using Grad-CAM Class Activation
-![GitHub Logo](https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png =100x20)
+<img src="https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png" alt="COVID-19 Chest X-ray Image" width="800" height="700" style=""/>
 
 
 
