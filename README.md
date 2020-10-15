@@ -1,5 +1,10 @@
 # Identifying the Viral spread of COVID-19 using Deep learning
 
+[![HitCount](http://hits.dwyl.com/tommy-acton/https://githubcom/tommy-acton/Masters_Disseration.svg)](http://hits.dwyl.com/tommy-acton/https://githubcom/tommy-acton/Masters_Disseration)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tommy-acton)](https://github.com/tommy-acton/Masters_Disseration)
+
+##### Hey, message me via linkedin - https://www.linkedin.com/in/sahr-thomas-acton-42484976/ 😃
+
 ## Introduction
 COVID-19 has had a negative impact on the health and wellbeing of the general public. 
 The current gold standard for testing suspicious patients of SARSCoV-2(COVID-19) is through
