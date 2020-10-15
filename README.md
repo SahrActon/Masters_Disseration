@@ -63,7 +63,9 @@ was one of the main factors that contributed towards the high accuracy for the b
 9.	Model output SoftMax
 
 ## Explainable AI using Grad-CAM Class Activation
-[logo]: https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png "Logo Title Text 2"
+![GitHub Logo](Masters_Disseration/images/image_1.png)
+![GitHub Logo](https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png)
+![logo]: https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png "Logo Title Text 2"
 
 
 
