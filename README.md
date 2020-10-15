@@ -95,13 +95,13 @@ From the table we can see that the Densenet model had the best overall performan
 
 
 ### Bibliography
-````
+
 1. Manchester, The University Of. Coronavirus: we must step up research to harness immense power of the immune system. https://www.manchester.ac.uk/. [Online] May 11, 2020. https://www.manchester.ac.uk/discover/news/coronavirus-we-must-step-up-research-to-harness-immense-power-of-the-immune-system/.
 2. Deep Residual Learning for Image Recognition. He, Kaiming, et al. s.l. : eprint arXiv:1512.03385, 2015.
 3. Densely Connected Convolutional Networks. Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger. s.l. : arXiv preprint arXiv:1608.06993, 2018.
 4. image-net.org. image-net.org. image-net.org. [Online] 2020. http://www.image-net.org/.
 5. Dropout: A Simple Way to Prevent Neural Networks from Overfitting. Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov. s.l. : Journal of Machine Learning Research, 2014, Vol. 15.
-```
+
 
 
 
