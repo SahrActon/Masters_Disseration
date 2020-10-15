@@ -65,5 +65,6 @@ was one of the main factors that contributed towards the high accuracy for the b
 ## Explainable AI using Grad-CAM Class Activation
 <img src="https://github.com/tommy-acton/Masters_Disseration/blob/main/images/image_1.png" alt="COVID-19 Chest X-ray Image" width="500" height="700" style=""/>
 
+<div style="width: 800px;height: 700px;background-color: rebeccapurple"></div>
 
 
